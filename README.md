@@ -1,4 +1,4 @@
-# Simple Calculator
+# Calculator - Feature Version
 
 ## Purpose
 This project is a simple Python calculator that takes two numbers from the user and displays their sum.
